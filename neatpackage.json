@@ -2,7 +2,7 @@
   "name": "neato",
   "version": "1.0.0",
   "description": "A program that prints the phrase, \"neato\"",
-  "main": "/Users/admin/Documents/GitHub/cool-corgial/cooljs.js",
+  "main": "/Users/admin/Documents/GitHub/cool-corgial/neato.js",
   "scripts": {
     "test": "\"neato\""
   },
