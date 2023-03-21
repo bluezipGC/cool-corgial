@@ -1,0 +1,19 @@
+{
+  "name": "neatopackage",
+  "version": "1.0.0",
+  "description": "A script that allows you to print the word, \"neato\".",
+  "main": "neato.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluezipGC/cool-corgial.git"
+  },
+  "author": "Geoffrey Clare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluezipGC/cool-corgial/issues"
+  },
+  "homepage": "https://github.com/bluezipGC/cool-corgial#readme"
+}
